@@ -12,6 +12,7 @@ It is designed for beginners to learn and practice core programming concepts and
 - 🧭 Navigation
 - 📝 Notes App
 - 😁 Memes App
+- 🎲 Dice Rolling App
 
 ---
 
