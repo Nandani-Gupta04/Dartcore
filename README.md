@@ -11,7 +11,7 @@ It is designed for beginners to learn and practice core programming concepts and
 - 🎯 Basic Calculator  
 - 🧭 Navigation
 - 📝 Notes App
-- 
+- 😁 Memes App
 
 ---
 
