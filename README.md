@@ -15,6 +15,7 @@ It is designed for beginners to learn and practice core programming concepts and
 - 🎲 Dice Rolling App
 - 🤔 To Do App
 - ☁ Weather App
+- 👩‍⚕️ BMI Calculator/ Health Tracking App
 
 ---
 
