@@ -18,6 +18,7 @@ It is designed for beginners to learn and practice core programming concepts and
 - 👩‍⚕️ BMI Calculator/ Health Tracking App
 - 📆 Calendar App
 - 🗣 Text to Speech Converter
+- and More...
 
 ---
 
